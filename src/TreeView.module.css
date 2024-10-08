@@ -1,0 +1,13 @@
+.treeRoot {
+  box-sizing: border-box;
+  max-height: 350px;
+  padding: 32px;
+}
+
+.draggingSource {
+  opacity: 0.3;
+}
+
+.dropTarget {
+  background-color: #e8f0fe;
+}

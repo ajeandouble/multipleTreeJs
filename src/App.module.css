@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+.app {
+  height: 100%;
+}
+
+ul {
+  list-style: none;
+}
+
+.rootGrid {
+  display: grid;
+  grid-template-columns: repeat(3, auto);
+  height: 100%;
+}
+
+.forbiddenDaD {
+  background-color: rgb(255, 96, 96);
+}
+
+.column + .column {
+  border-left: dashed 3px #656565;
+}

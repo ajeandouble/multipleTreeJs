@@ -1,0 +1,150 @@
+{
+  "LEFT_TREE": [
+    {
+      "id": "254ae136-6a29-444e-806d-a7748664dd26",
+      "parent": "LEFT_TREE",
+      "tree": "LEFT_TREE",
+      "droppable": true,
+      "text": "FOLDER 101"
+    },
+    {
+      "id": "6ad1c294-79c6-4a78-9d66-d436f5222d87",
+      "parent": "254ae136-6a29-444e-806d-a7748664dd26",
+      "tree": "LEFT_TREE",
+      "droppable": true,
+      "text": "FOLDER 102"
+    },
+    {
+      "id": "cd72588a-3e9a-4808-aa00-040e1ec97fb9",
+      "parent": "6ad1c294-79c6-4a78-9d66-d436f5222d87",
+      "tree": "LEFT_TREE",
+      "text": "FILE 103"
+    },
+    {
+      "id": "cd72588a-3e9a-4808-aa00-040e1ec97fb8",
+      "parent": "6ad1c294-79c6-4a78-9d66-d436f5222d87",
+      "tree": "LEFT_TREE",
+      "text": "FILE 104"
+    },
+    {
+      "id": "cd72588a-3e9a-4808-aa00-040e1ec97fb7",
+      "parent": "6ad1c294-79c6-4a78-9d66-d436f5222d87",
+      "tree": "LEFT_TREE",
+      "text": "FILE 105"
+    },
+    {
+      "id": "cd72588a-3e9a-4808-aa00-040e1ec97fb9",
+      "parent": "6ad1c294-79c6-4a78-9d66-d436f5222d87",
+      "tree": "LEFT_TREE",
+      "text": "FILE 106"
+    },
+    {
+      "id": "cd72588a-3e9a-4808-aa00-040e1ec92fb9",
+      "parent": "6ad1c294-79c6-4a78-9d66-d436f5222d87",
+      "tree": "LEFT_TREE",
+      "text": "FILE 107"
+    },
+    {
+      "id": "cd72588a-3e9a-4808-aa00-04031ec97fb9",
+      "parent": "6ad1c294-79c6-4a78-9d66-d436f5222d87",
+      "tree": "LEFT_TREE",
+      "text": "FILE 108"
+    },
+    {
+      "id": "cd72588a-3e9a-4808-aa00-140e1ec97fb9",
+      "parent": "6ad1c294-79c6-4a78-9d66-d436f5222d87",
+      "tree": "LEFT_TREE",
+      "text": "FILE 109"
+    },
+    {
+      "id": "cd7258bb-3e9a-4808-aa00-040eaec97fb9",
+      "parent": "6ad1c294-79c6-4a78-9d66-d436f5222d87",
+      "tree": "LEFT_TREE",
+      "text": "FILE 110"
+    },
+    {
+      "id": "cd7eee8a-3e9a-4808-aa55-040e1ec97fb9",
+      "parent": "6ad1c294-79c6-4a78-9d66-d436f5222d87",
+      "tree": "LEFT_TREE",
+      "text": "FILE 111"
+    },
+    {
+      "id": "cd72588a-139a-4808-aa44-040e1ec97fb9",
+      "parent": "6ad1c294-79c6-4a78-9d66-d436f5222d87",
+      "tree": "LEFT_TREE",
+      "text": "FILE 113"
+    },
+    {
+      "id": "cd72588a-139a-4808-aa33-040e1ec97fb9",
+      "parent": "6ad1c294-79c6-4a78-9d66-d436f5222d87",
+      "tree": "LEFT_TREE",
+      "text": "FILE 114"
+    },
+    {
+      "id": "cd72588a-139a-4808-aa22-040e1ec97fb9",
+      "parent": "6ad1c294-79c6-4a78-9d66-d436f5222d87",
+      "tree": "LEFT_TREE",
+      "text": "FILE 115"
+    },
+    {
+      "id": "cd72588a-139a-4808-aa11-040e1ec97fb9",
+      "parent": "6ad1c294-79c6-4a78-9d66-d436f5222d87",
+      "tree": "LEFT_TREE",
+      "text": "FILE 116"
+    },
+    {
+      "id": "b077574d-9358-4aff-b743-09e100d3b7f1",
+      "parent": "LEFT_TREE",
+      "droppable": true,
+      "tree": "LEFT_TREE",
+      "text": "FOLDER 124"
+    },
+    {
+      "id": "cd72588a-3e9a-4808-aa00-040e1ec97fb9",
+      "parent": "b077574dzz-9358-4aff-b743-09e100d3b7f1",
+      "tree": "LEFT_TREE",
+      "text": "FILE 125"
+    },
+    {
+      "id": "cd72581238a-3e9a-4808-aa00-040e1ec97fb8",
+      "parent": "b077574d-9358-4aff-b743aa-09e100d3b7f1",
+      "tree": "LEFT_TREE",
+      "text": "FILE 126"
+    }
+  ],
+  "RIGHT_TREE": [
+    {
+      "id": "86bd3b39-4fa2-4af6-ba32-75cc78f25035",
+
+      "parent": "RIGHT_TREE",
+      "droppable": true,
+      "tree": "RIGHT_TREE",
+      "text": "FOLDER 201"
+    },
+    {
+      "id": "fdcccff9-8f2e-4302-80a7-cf51e9c1ec7f",
+      "parent": "86bd3b39-4fa2-4af6-ba32-75cc78f25035",
+      "droppable": true,
+      "tree": "RIGHT_TREE",
+      "text": "FOLDER 202"
+    },
+    {
+      "id": "e824e8b0-0bdb-4962-90ed-16cbcc6bc5f8",
+      "parent": "fdcccff9-8f2e-4302-80a7-cf51e9c1ec7f",
+      "tree": "RIGHT_TREE",
+      "text": "FILE 203"
+    },
+    {
+      "id": "e0c66e79-45cd-4fdd-b6ca-b5a9e670ddc2",
+      "parent": "RIGHT_TREE",
+      "tree": "RIGHT_TREE",
+      "text": "FILE 204"
+    },
+    {
+      "id": "c1ef44a2-c71c-4698-a0c5-9e9d1f6fde71",
+      "parent": "RIGHT_TREE",
+      "tree": "RIGHT_TREE",
+      "text": "FILE 205"
+    }
+  ]
+}
